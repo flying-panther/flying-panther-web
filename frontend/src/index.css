@@ -229,3 +229,15 @@ tbody > tr:nth-child(odd) {
   border: 0.1rem #c0c0c0 solid;
   border-radius: 0.5rem;
 }
+
+
+/* Fulfillment Extra Credit */
+
+.fulfillment-unshipped {
+  color: #c62828;
+  font-weight: bold;
+}
+
+.table-responsive {
+  overflow-x: auto;
+}
